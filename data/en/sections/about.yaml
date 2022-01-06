@@ -68,10 +68,10 @@ badges:
   url: "#"
   badge: "https://images.credly.com/size/340x340/images/560387ad-3254-4872-9940-c3f5d75b3a4a/2021_Digital_Badges_MicroCredential__Analyzing_Data_with_Power_BI.png"
 
-- type: certification
-  name: Data Analytics
-  url: "#"
-  badge: "https://images.credly.com/size/340x340/images/ab1dd842-a951-4b08-b4b1-237630223f92/6232befa5e38f3e399576afe2db788b9.png"
+#- type: certification
+#  name: Data Analytics
+#  url: "#"
+#  badge: "https://images.credly.com/size/340x340/images/ab1dd842-a951-4b08-b4b1-237630223f92/6232befa5e38f3e399576afe2db788b9.png"
 
 - type: certification
   name: Artificial Intelligence and Machine Learning
