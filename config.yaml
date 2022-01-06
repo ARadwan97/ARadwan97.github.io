@@ -53,10 +53,7 @@ params:
     inverted: /images/site/inverted-logo.png
     favicon: /images/site/favicon.png
 
-  # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
-  # Default branch of your Git repo
-  gitBranch: source
+ 
 
   # Configure various features of this theme
   features:
@@ -131,7 +128,7 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
+      enable: false
       provider: mailchimp
       mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
