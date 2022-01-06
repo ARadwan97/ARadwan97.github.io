@@ -8,60 +8,72 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Data Analyst
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Ministry of Health&Population.
+  url: "http://mohpegypt.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate Data Analyst with 3 years of working experience.
+ I built Data-Driven Dashboards and Reports for Stakeholder using Many Tools and Platforms.
+  My Reports help Desicion Makers to Take their Best Actions in The Worst Porblems.
+   Sometimes, I work on some fun projects such as Whattsapp Groups Analysis, etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "abdorid1@outlook.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/ARadwan97"
+
+- name: Kaggle
+  icon: "fab fa-kaggle"
+  url: "https://www.kaggle.com/abdulrahmanradwan"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://stackoverflow.com/users/15424209/abdo-radwan"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "www.linkedin.com/in/abdoradwan97"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/Abdo_Rad_1"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/abdo.ridone36/"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Google Data Analytics Professional Certificate
+  url: "https://www.credly.com/org/coursera/badge/google-data-analytics-professional-certificate.1"
+  badge: "https://images.credly.com/size/340x340/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Analyzing Data with Power BI
+  url: "#"
+  badge: "https://images.credly.com/size/340x340/images/560387ad-3254-4872-9940-c3f5d75b3a4a/2021_Digital_Badges_MicroCredential__Analyzing_Data_with_Power_BI.png"
 
 - type: certification
+  name: Data Analytics
+  url: "#"
+  badge: "https://images.credly.com/size/340x340/images/ab1dd842-a951-4b08-b4b1-237630223f92/6232befa5e38f3e399576afe2db788b9.png"
+
+  - type: certification
   name: Artificial Intelligence and Machine Learning
   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
