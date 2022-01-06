@@ -73,7 +73,7 @@ badges:
   url: "#"
   badge: "https://images.credly.com/size/340x340/images/ab1dd842-a951-4b08-b4b1-237630223f92/6232befa5e38f3e399576afe2db788b9.png"
 
-  - type: certification
+- type: certification
   name: Artificial Intelligence and Machine Learning
   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
