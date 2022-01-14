@@ -2,7 +2,7 @@
 section:
   name: Education
   id: education
-  template: sections/education-alt.html # Use "sections/education-alt.html for alternate template.
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
   weight: 4
   showOnNavbar: true
@@ -14,8 +14,8 @@ degrees:
   icon: fa-graduation-cap
   timeframe: 2017-2022
   institution:
-    name: University of Ain Shams(in Cairo)
-    url: "#"
+    name: University of Ain Shams
+    url: #
   grade: #(optional)
     scale: CGPA
     achieved: 3.5
@@ -50,7 +50,7 @@ degrees:
   timeframe: 2016-2017
   institution:
     name: Health Technical Institute of Cairo
-    url: "#"
+    url: #
   grade: #
     scale: GPA
     achieved: 4.0
