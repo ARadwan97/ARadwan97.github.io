@@ -69,7 +69,7 @@ degrees:
   institution:
     name: Health Technical Institute of Cairo
     url: "#"
-  grade: 95
+  grade: #
     scale: GPA
     achieved: 4.0
     outOf: 4.0
@@ -83,7 +83,7 @@ degrees:
   timeframe: 2013-2015
   institution:
     name: Khaled Ibn El-Waleed School
-  grade: B+
+  grade: #
     scale: GPA
     achieved: 3.50
     outOf: 4.0
