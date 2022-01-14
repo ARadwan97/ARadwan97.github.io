@@ -55,23 +55,22 @@ degrees:
     scale: GPA
     achieved: 4.0
     outOf: 4.0
-   takenCourses: #(optional)
+   #takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
-    collapseAfter: 4
-    courses:
-    - name: Govermental Accounting
-      achieved: 4
-      outOf: 4
-    - name: Medical Records
-      achieved: 4
-      outOf: 4
-    - name: Applied Statistics
-      achieved: 4
-      outOf: 4
-    - name: Bio-Statistics
-      achieved: 4
-      outOf: 4
+    #showGrades: false
+    #collapseAfter: 4
+    #courses:
+    #- name: Govermental Accounting
+     # achieved: 4
+      #outOf: 4
+   # - name: Medical Records
+      #achieved: 4
+      #outOf: 4
+    ## achieved: 4
+      #outOf: 4
+    #- name: Bio-Statistics
+      #achieved: 4
+      #outOf: 4
   #extracurricularActivities: #(optional)
    #- General Statistics Methods and Models
    #- Bio-Statistics Techniques to Scientific Research in Health-Related Fields
