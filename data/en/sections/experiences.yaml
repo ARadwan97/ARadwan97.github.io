@@ -11,14 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Minister's Tecnical Office At Ministry of Health & Population
+    url: "https://www.mohp.gov.eg/default.aspx"
+    location: Cairo, Egypt
     # company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Administrative Officer & Data Analyst
+    start: Oct 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
