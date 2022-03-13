@@ -44,15 +44,9 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "www.linkedin.com/in/abdoradwan97"
+  url: "https://www.linkedin.com/in/abdoradwan97/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://twitter.com/Abdo_Rad_1"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "https://www.facebook.com/abdo.ridone36/"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -65,7 +59,7 @@ badges:
 
 - type: certification
   name: Analyzing Data with Power BI
-  url: "#"
+  url: #
   badge: "https://images.credly.com/size/340x340/images/560387ad-3254-4872-9940-c3f5d75b3a4a/2021_Digital_Badges_MicroCredential__Analyzing_Data_with_Power_BI.png"
 
 #- type: certification
