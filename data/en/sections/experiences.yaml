@@ -15,7 +15,7 @@ experiences:
     url: "https://www.mohp.gov.eg/default.aspx"
     location: Cairo, Egypt
     # company overview
-    overview: 
+    overview: Ministry of Health & Population
   positions:
   - designation: Administrative Officer & Data Analyst
     start: Oct 2021
@@ -25,16 +25,3 @@ experiences:
     responsibilities:
     - Design and develop Data Analysis tool for Ministry
     - Design, develop and manage disaster recovery tool 
-
-  - designation: Political Officer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
-
-- company:
-    name: Minister's Office At Ministry of Health & Population
-    url: #
-    overview: 
