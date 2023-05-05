@@ -14,12 +14,10 @@ skills:
 - name: R
   logo: /images/sections/skills/r.png
   summary: "Capable of Creating Reports, managing Data on R Studio. Experienced in writing R Scripts for Data Analysis Projects."
-  url: "https://rstudio.cloud/"
 
 - name: Python
   logo: /images/sections/skills/jupyter.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable notebooks."
-  url: "https://jupyter.org/"
 
 - name: Data Visualization
   logo: /images/sections/skills/viz.png
@@ -28,14 +26,11 @@ skills:
 - name: Google Data Studio
   logo: /images/sections/skills/data-studio.png
   summary: "Write most of the reports on Google Data Studio. It's Has a lot of connectors sort"
-  url: "#"
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+- name: Presentation Skills
+  logo: /images/sections/skills/presentation.png
+  summary: "Developing strong presentation skills and  help me to communicate your ideas more effectively and make a positive impression on your audience."
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
-
+- name: Project Management
+  logo: /images/sections/skills/project mangement.png
+  summary: "Identify project needs and develop a detailed timeline for completion. Coordinate a project management team and delegate tasks. Monitor expenditures and create detailed reports for upper management."
